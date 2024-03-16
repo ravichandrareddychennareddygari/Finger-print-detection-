@@ -28,8 +28,3 @@ The feature set for the image consists of the location of Terminations and Bifur
 - skimage
 - numpy
 - math
-
-# Note
-use the code https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python to enhance the fingerprint image.
-This program takes in the enhanced fingerprint image and extracts the minutiae features.
-
